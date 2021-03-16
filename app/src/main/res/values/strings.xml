@@ -1,9 +1,15 @@
 <resources>
-    <string name="app_name">Activities_and_Intents_DMA</string>
-    <string name="button_main">Send</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter Your Message Here</string>
-    <string name="button_second">Reply</string>
-    <string name="text_header_reply">Reply Received</string>
-    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="app_name">Grocery List</string>
+    <string name="add_item">Add Item</string>
+    <string name="eggs">Eggs</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="milk">Milk</string>
+    <string name="wheat_flour">Wheat Flour</string>
+    <string name="bread">Bread</string>
+    <string name="sugar">Sugar</string>
+    <string name="salt">Salt</string>
+    <string name="oil">Oil</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="space" />
 </resources>
